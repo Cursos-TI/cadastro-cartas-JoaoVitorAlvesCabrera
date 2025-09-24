@@ -15,6 +15,9 @@ int main() {
   int numeroturisticos1, numeroturisticos2; //A quantidade de pontos turísticos na cidade
   float pib1, pib2; // O Produto Interno Bruto da cidade
   float area1, area2; // Área (em km²): A área da cidade em quilômetros quadrados
+
+   float densidadepop1, densidadepop2;
+  float pibpercapita1, pibpercapita2;
   
   //Carta 1
 
