@@ -17,7 +17,8 @@ int main() {
   float area1, area2; // Área (em km²): A área da cidade em quilômetros quadrados
 
   float densidadepop1, densidadepop2;
-  float pibpercapita1, pibpercapita2; 
+  float pibpercapita1, pibpercapita2;
+  float superpoder1, superpoder2;
 
   //Carta 1
 
